@@ -42,7 +42,6 @@ apis:
   - name: Helipaddy sites
     description: "Helicopter and passenger drone landing site directory, Helipaddy data and much more"
     humanURL: https://helipaddy.com/api/
-    baseURL: https://helipaddy.com/api/
     tags:
       - Vehicles
     tags_raw:
